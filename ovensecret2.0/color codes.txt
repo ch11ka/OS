@@ -1,0 +1,14 @@
+
+    #191919 choco
+    #DFE2DB off white
+    #FFF056 yellow
+    #FFFFFF white
+    
+    
+ new colour codes
+ 
+ #ffffff white
+#DF3D82 pink
+#191919 black
+#DFE2DB off white
+ #D23B88 oven secret
